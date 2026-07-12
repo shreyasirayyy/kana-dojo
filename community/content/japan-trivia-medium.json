@@ -769,5 +769,16 @@
     "Sayonara"
   ],
   "correctIndex": 1
+},
+{
+  "question": "Which region is famous for green tea production in Japan?",
+  "difficulty": "medium",
+  "answers": [
+    "Shizuoka",
+    "Okinawa",
+    "Tohoku",
+    "Hokuriku"
+  ],
+  "correctIndex": 0
 }
 ]
