@@ -525,17 +525,24 @@
     "character": "Eren Yeager"
   },
   {
-  "japanese": "あきらめたらそこで試合終了ですよ…？",
-  "romaji": "Akirametara soko de shiai shuuryou desu yo...?",
-  "english": "If you give up, that's the end of the game.",
-  "anime": "Slam Dunk",
-  "character": "Kaede Rukawa"
+    "japanese": "あきらめたらそこで試合終了ですよ…？",
+    "romaji": "Akirametara soko de shiai shuuryou desu yo...?",
+    "english": "If you give up, that's the end of the game.",
+    "anime": "Slam Dunk",
+    "character": "Kaede Rukawa"
   },
   {
-  "japanese": "仲間を信じることが俺の魔法だ",
-  "romaji": "Nakama o shinjiru koto ga ore no mahou da",
-  "english": "Believing in my friends is my magic.",
-  "anime": "Fairy Tail",
-  "character": "Natsu Dragneel"
-}
+    "japanese": "仲間を信じることが俺の魔法だ",
+    "romaji": "Nakama o shinjiru koto ga ore no mahou da",
+    "english": "Believing in my friends is my magic.",
+    "anime": "Fairy Tail",
+    "character": "Natsu Dragneel"
+  },
+  {
+    "japanese": "貴様ッ！見ているなッ！！",
+    "romaji": "Kisama! Mite iru na!!",
+    "english": "You! You're watching me! (alt wording 11)",
+    "anime": "JoJo's Bizarre Adventure: Stone Ocean",
+    "character": "Jolyne Cujoh"
+  }
 ]
