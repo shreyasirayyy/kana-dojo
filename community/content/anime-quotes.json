@@ -545,18 +545,25 @@
     "anime": "JoJo's Bizarre Adventure: Stone Ocean",
     "character": "Jolyne Cujoh"
   },
-{
-  "japanese": "ほう…向かってくるのか",
-  "romaji": "Ho... mukatte kuru no ka",
-  "english": "Oh? You're approaching me? (alt wording 3)",
-  "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-  "character": "DIO"
-},
   {
-  "japanese": "なにィ！？",
-  "romaji": "Nanii!?",
-  "english": "What?! (alt wording 9) (alt wording 61)",
-  "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
-  "character": "Joseph Joestar"
+    "japanese": "ほう…向かってくるのか",
+    "romaji": "Ho... mukatte kuru no ka",
+    "english": "Oh? You're approaching me? (alt wording 3)",
+    "anime": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "character": "DIO"
+  },
+  {
+    "japanese": "何ッ！？",
+    "romaji": "Nani!?",
+    "english": "What?! (alt wording 19) (alt wording 71)",
+    "anime": "Fist of the North Star",
+    "character": "Shin"
+  },
+  {
+  "japanese": "僕は新世界の神となる",
+  "romaji": "Boku wa shin sekai no kami to naru",
+  "english": "I will become the god of the new world.",
+  "anime": "Death Note",
+  "character": "Light Yagami"
 }
 ]
